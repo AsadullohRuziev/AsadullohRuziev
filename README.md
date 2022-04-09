@@ -15,14 +15,12 @@
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **my teaching blogs**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
+- 🔭 &nbsp; I’m currently working on **My teaching blogs**
 - 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AsadullohRuziev)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/asadullohruziev/)
 - 📝 &nbsp; Checkout my [resume](https://asadulloh.vercel.app/)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
 <br>
 <br>
@@ -56,9 +54,6 @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
