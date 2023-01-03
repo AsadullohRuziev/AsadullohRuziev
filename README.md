@@ -9,7 +9,7 @@
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **My teaching blogs**
-- 🌱 &nbsp; I’m currently learning Typescript; 
+- 🌱 &nbsp; I have experience with PHP,Javascript, Typescript, React, Laravel, MySQL; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AsadullohRuziev)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/asadullohruziev/)
@@ -51,7 +51,6 @@
 
 
 
-<a href="https://github.com/AsadullohRuziev/github-readme-activity-graph"><img alt="AsadullohRuziev's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=AsadullohRuziev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
@@ -61,10 +60,3 @@
 
 
 
-
-
-
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
